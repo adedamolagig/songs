@@ -1,8 +1,15 @@
 [
     {
-        "song": "Baba, niwaju ite Re", 
+        "title": "Baba, niwaju ite Re", 
         "verse 1": "f\tBaba, niwaju ite Re\n L’angeli nteriba;\nNigba gbogbo niwaju Re\nNi nwon nkorin iyin\ndi	Nwon si nfi ade wura won,\nLele yi ‘te na ka;cr\tNwon nfi ohun pelu duru\nKorin si Oluwa",
         "verse 2": "mf\tDidan Osumare si ntan\nSi ara iye won;cr\tBi Seraf ti nke si Seraf,\nTi nwon nkorin ‘yin Re\nP\tBi a ti kunle nihinyi,\nRan ore Re si wa;\nK’ a mo pe ‘Wo wa nitosi,\nLati da wa lohun.",
         "verse 3": "mf\tNihin, ni bi t’ awon Angel\nNwo wa b’a ti nsin O;\ncr\tKo wa k’a wa ile orun,\nK’a sin O bi ti won;\nf\tK’a ba won ko orin iyin\nK’a ba won mo ‘fe Re;\nTiti agbara y’o fi di\nTire, Tire nikan:\tAmin",
     },
-] 
+
+    {
+    	"title": "Father, before Thy Throne of light",
+    	"verse 1": "f\tFather, before Thy Throne of light\nThe guardian Angel bend.\nAnd ever in Thy presence bright\nTheir psalms adoring Thee\ndi\tAnd casting down each golden crown.\nBesides the crystal sea.\ncr\tWith voice and Lyre, in happy choir\nHymn glory, Lord to Thee.",
+    	"verse 2": "mf\tAnd as the rainbow lustre falls\nAth wart their glowing wings\ncr\tWhile seraph unto seraph calls\nAnd each Thy goodness sings;\nP\tSo we may feel low as we kneel\nTo pray Thee for Thy grace\nThat Thou art here, for all who fear\nThe brightness of Thy face.",
+    	"verse 3": "mf\tHere, where the Angels see us come\nTo worship day by day,\ncr\tTeach s to seek our heavenly home,\nAnd serve Thee o’er as they;\nf\tWith them to raise our notes of praise\nWith Them thy love to own.\nThy childhood’s flower and manhood’s power\nBe Thine, and Thine alone.\tAmen"
+    }
+]	
